@@ -1,0 +1,2 @@
+import{s as u}from"./slugify-CmQ1Aov3.js";import{n as a}from"./chunk-VCYTMP4D-Dtug6Gx1.js";import{l as c}from"./http-error-DJhpcL-Y.js";function g(i){if(!i)return;const{name:m,slug:e}=i;let{userId:s,id:t}=i;const n=m??e;if(t?.includes("::")){const r=t.split("::");s=r.at(0)?.trim(),t=r.at(1)?.trim()}const o=[n?u(n):void 0,s,t].filter(c);return a(o)?void 0:o.join("-")}export{g as m};
+//# sourceMappingURL=get-playlist-profile-slug-D7zzoeNX.js.map

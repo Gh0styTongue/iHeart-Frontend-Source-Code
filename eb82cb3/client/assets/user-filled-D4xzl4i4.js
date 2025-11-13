@@ -1,0 +1,2 @@
+import{j as r}from"./create-logger-DNtzi1_a.js";import{I as e}from"./text-CLqYBJ6O.js";function o(a){return r.jsx(e,{"aria-label":"User Filled",...a,children:r.jsx("svg",{viewBox:"0 0 24 24",children:r.jsx("path",{d:"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 3a3 3 0 1 1 0 6 3 3 0 0 1 0-6Zm0 14.2a7.2 7.2 0 0 1-6-3.22c.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08a7.2 7.2 0 0 1-6 3.22Z"})})})}export{o as U};
+//# sourceMappingURL=user-filled-D4xzl4i4.js.map

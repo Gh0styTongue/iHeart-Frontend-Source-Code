@@ -1,0 +1,2 @@
+import{j as r}from"./create-logger-DNtzi1_a.js";import{I as o}from"./text-CLqYBJ6O.js";function s(e){return r.jsx(o,{"aria-label":"Error Outline",...e,children:r.jsxs("svg",{viewBox:"0 0 24 24",children:[r.jsx("path",{d:"M12 13a1 1 0 0 1-1-1V8c0-.5.4-1 1-1s1 .5 1 1v4c0 .6-.4 1-1 1Zm0 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"}),r.jsx("path",{clipRule:"evenodd",d:"M2 12a10 10 0 1 1 20 0 10 10 0 0 1-20 0Zm2 0a8 8 0 1 0 16 0 8 8 0 0 0-16 0Z",fillRule:"evenodd"})]})})}export{s as E};
+//# sourceMappingURL=error-outline-CtlTnojc.js.map

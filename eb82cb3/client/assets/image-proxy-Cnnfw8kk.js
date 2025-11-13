@@ -1,0 +1,2 @@
+import{c as m}from"./create-logger-DNtzi1_a.js";const u=m({set(n,o){return{property:n,value:o}}});function a(){if(!window)return;const{Image:n}=window,o=new Proxy(n,{construct(c,s,i){const f={set(e,t,r){return u.set(t,r),Reflect.set(e,t,r)},get(e,t){return typeof e[t]=="function"?e[t].bind(e):e[t]}};return new Proxy(Reflect.construct(c,s,i),f)}});Reflect.set(window,"Image",o)}export{u as I,a as p};
+//# sourceMappingURL=image-proxy-Cnnfw8kk.js.map

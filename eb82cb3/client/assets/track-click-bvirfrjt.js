@@ -1,0 +1,2 @@
+import{a as p,b as l,e as m}from"./create-analytics-DYSkN0SF.js";const w=r=>{const{pageName:t,location:e,sectionName:a,filterType:o,filterSelection:i,station:n,globalStation:s,tab:c}=r;p.track({type:m.enum.Click,data:{pageName:l(t),window:{location:{href:window.location.href}},...n?{station:{asset:n}}:{},view:{pageName:t,...c?{tab:l(c)}:{},...s?{station:{asset:s}}:{},...a?{section:{name:a}}:{}},event:{...e?{location:e}:{},...o||i?{filter:{type:o,selection:i}}:{}}}})};export{w as t};
+//# sourceMappingURL=track-click-bvirfrjt.js.map

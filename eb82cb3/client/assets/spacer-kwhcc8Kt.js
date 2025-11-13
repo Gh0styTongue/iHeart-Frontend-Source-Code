@@ -1,0 +1,2 @@
+import{j as l}from"./create-logger-DNtzi1_a.js";import{r as S}from"./chunk-QMGIS6GS-CFDD2jAw.js";import{$,r as b}from"./text-CLqYBJ6O.js";const w=S.forwardRef(function({bottom:r,children:d,id:u,left:o,right:p,top:i,x:e,y:t,p:n,...a},s){const c=$(),{className:f,style:x,otherProps:m}=b({paddingBottom:r,paddingTop:i,paddingLeft:o,paddingRight:p,px:e,py:t,padding:n,...a}),g=a["aria-expanded"]??!1;return l.jsx("div",{"aria-expanded":g,className:f,id:c,ref:s,style:x,...a,...m,children:d})});export{w as S};
+//# sourceMappingURL=spacer-kwhcc8Kt.js.map

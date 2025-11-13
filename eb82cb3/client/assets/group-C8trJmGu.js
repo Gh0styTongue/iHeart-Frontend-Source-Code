@@ -1,0 +1,2 @@
+import{j as c}from"./create-logger-DNtzi1_a.js";import{r as x,c as u}from"./text-CLqYBJ6O.js";import{s as g}from"./create-analytics-DYSkN0SF.js";function d({children:s,css:r,...i}){const{align:e,gap:t,justify:n,wrap:o,inline:a=!1,grow:l,...p}=i,{className:f,style:m}=x({alignItems:e,gap:t,justifyContent:n,wrap:o,grow:l,...r});return c.jsx("div",{className:u(g({alignSelf:"stretch",display:a?"inline-flex":"flex",flexDirection:"row"}),f),style:m,...p,children:s})}export{d as G};
+//# sourceMappingURL=group-C8trJmGu.js.map

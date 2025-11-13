@@ -1,0 +1,2 @@
+import{j as a}from"./create-logger-DNtzi1_a.js";import{I as r}from"./text-CLqYBJ6O.js";function t(o){return a.jsx(r,{"aria-label":"Tik Tok",...o,children:a.jsx("svg",{viewBox:"0 0 18 20",children:a.jsx("path",{d:"M17.77 4.91a5.04 5.04 0 0 1-4.32-3.01A4.68 4.68 0 0 1 13.1.01H9.6v13c0 2.2-1.31 3.5-2.93 3.5a2.91 2.91 0 0 1-3-2.94 2.95 2.95 0 0 1 1.86-2.73 2.91 2.91 0 0 1 2.08-.03V7.24a6.43 6.43 0 1 0 5.48 6.34v-6.8a8.3 8.3 0 0 0 4.68 1.4V4.9Z"})})})}export{t as T};
+//# sourceMappingURL=tiktok-Da6nf_3H.js.map

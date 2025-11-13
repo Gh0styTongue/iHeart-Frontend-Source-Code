@@ -1,0 +1,2 @@
+import{j as f}from"./create-logger-DNtzi1_a.js";import{r as p,j as c}from"./text-CLqYBJ6O.js";import{s as j}from"./create-analytics-DYSkN0SF.js";function g({children:s,css:i,...n}){const{inline:e=!1,align:t,gap:a,justify:o,...r}=n,{className:l,style:m}=p({alignItems:t,gap:a,justifyContent:o,...i});return f.jsx("div",{className:c([j({display:e?"inline-flex":"flex",flexDirection:"column"}),l]),style:m,...r,children:s})}export{g as S};
+//# sourceMappingURL=stack-DldWOXlj.js.map

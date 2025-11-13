@@ -1,0 +1,2 @@
+import{j as e}from"./create-logger-DNtzi1_a.js";import{I as l}from"./text-CLqYBJ6O.js";function a(i){return e.jsx(l,{"aria-label":"Warning Filled",...i,children:e.jsx("svg",{viewBox:"0 0 24 24",children:e.jsx("path",{clipRule:"evenodd",d:"M12.8 2.5a.9.9 0 0 0-1.6 0l-10 18.1c-.4.6 0 1.4.7 1.4h20.2c.7 0 1.1-.8.8-1.4L12.8 2.5Zm-.8 12a1 1 0 0 1-1-1v-4c0-.6.4-1 1-1s1 .4 1 1v4c0 .6-.4 1-1 1Zm0 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z",fillRule:"evenodd"})})})}export{a as W};
+//# sourceMappingURL=warning-filled-81k3OA45.js.map
