@@ -14,6 +14,9 @@ This repository is for educational and research purposes only. All code is copyr
 
 The source code was obtained from publicly accessible resources through browser developer tools.
 
+## Has iHeart Disabled Sourcemaps?
+Yes.
+
 ## License
 
 The content in this repository belongs to iHeartMedia, Inc. If there are any copyright concerns, please contact for removal.
